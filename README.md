@@ -191,7 +191,7 @@ export default defineNuxtConfig({
 
 To update the default size (`1em`) of the `<Icon />`, create an `app.config.ts` with the `icon.size` property.
 
-Update the default class (`.icon`) of the `<Icon />` with the `icon.class` property, for a headless Icon, set `icon`.class: ''`.
+Update the default class (`.icon`) of the `<Icon />` with the `icon.class` property, for a headless Icon, set `icon.class: ''`.
 
 You can also define aliases to make swapping out icons easier by leveraging the `icon.aliases` property.
 
